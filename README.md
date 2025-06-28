@@ -12,6 +12,7 @@ Devlift is a single page motivational web application designed for developers wh
 - Like button to mark quotes you enjoy
 - Copy button to copy quotes to clipboard for sharing or saving
 - Keyboard shortcut: Press **"n"** to load a new quote
+
 ## Tech Stack
 
 - HTML
@@ -31,8 +32,14 @@ Phase 1: Complete
   - Like quote  
   - Copy quote
 - **Keydown:** Press 'n' to get a new quote
+
 ## Author
 
 Eber Riphath  
 Email: riphatheber@gmail.com
+
+## Live Site
+
+[Devlift on GitHub Pages](https://eberriphath.github.io/Dev-Lift/)
+
 
