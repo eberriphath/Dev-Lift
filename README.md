@@ -42,4 +42,5 @@ Email: riphatheber@gmail.com
 
 [Devlift on GitHub Pages](https://eberriphath.github.io/Dev-Lift/)
 
+Note: Quotes data is served via json-server and will not load on GitHub Pages. To test fully, run json-server locally as described in setup instructions.
 
