@@ -50,4 +50,11 @@ copyBtn.addEventListener("click", () => {
     .catch(err => console.error("Failed to copy: ", err));
 });
 
+// Keydown event: Press 'n' to get a new quote
+document.addEventListener("keydown", (e) => {
+  if (e.key === "n" || e.key === "N") {
+    displayRandomQuote();
+  }
+});
+
 console.log("Script loaded!");
